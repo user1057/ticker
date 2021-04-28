@@ -44,7 +44,7 @@ INSERT INTO public.config
 VALUES('cryptoPair', NULL, 'datxbtc');
 INSERT INTO public.config
 (paramname, numval, stringval)
-VALUES('statisticsConfig', NULL, '60,100;120,100');
+VALUES('statisticsConfig', NULL, '60,100,100');
 
 PARAMNAME                          NUMVAL     STRINGVAL
 amountHolding           267200.0000000000
